@@ -10,4 +10,4 @@
 
 ### Descrição:
 
-#### Utilizei o Html como marcador, o Javascript para interaçao de toda a pagina, e a estilizaçao por conta do Css (clone)
+#### Utilizei o Html como marcador, o Javascript para interaçao de toda a página, consumo de API, e a estilizaçao por conta do Css (clone)
