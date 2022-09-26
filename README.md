@@ -1,4 +1,4 @@
-# Star-Dev
+# Star-Dev:construction:
 
 ## Projetinho bem legal sobre o Star Wars!
 
@@ -6,7 +6,7 @@
 
 #### Bem legal, para fãs da Saga Star Wars!
 
-## Status: Finalizado
+## Status: em construçao
 
 ### Descrição:
 
