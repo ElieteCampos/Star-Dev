@@ -1,5 +1,5 @@
 <<<<<<< HEADa
-# Star-Dev em construcao.
+# Star-Dev 
 =======
 # :construction:Star-Dev:construction:
 
